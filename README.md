@@ -6,3 +6,4 @@ Here's a list of our current academic year's events:
 * [Python Basics 2.0 Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Python%20Workshop%202) - 4th November 2020
 * [IBM MTM Introduction Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/MTM%20Workshop) - 12th November 2020
 * [Design & Good Practice (C++) Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/C%2B%2B%20Good%20Practice) - 9th December 2020
+* [Python in Industry Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Python%20in%20Industry) - 20th January 2021
