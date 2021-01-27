@@ -1,7 +1,7 @@
 # C++ Good Practice Workshop
 The meeting recording, code files and presentation for our Alumni Luke Billington's C++ Workshop.
 
-[Recording](https://www.youtube.com/watch?v=w9dkjOEJnEc)
+[Recording](https://www.youtube.com/watch?v=JvTHA3Am8KU)
 
 [Presentation](https://docs.google.com/presentation/d/1AtlcZ5WXFkCj9DrfRZRPHlnA3xrLglyPgiRyPsnaVU0/edit#slide=id.gb06580d4f5_0_33)
 
