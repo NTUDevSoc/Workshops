@@ -7,4 +7,5 @@ Here's a list of our current academic year's events:
 * [IBM MTM Introduction Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/MTM%20Workshop) - 12th November 2020
 * [Design & Good Practice (C++) Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/C%2B%2B%20Good%20Practice) - 9th December 2020
 * [Python in Industry Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Python%20in%20Industry) - 20th January 2021
-* [A World of Insecurity ft John Walker](https://github.com/NTUDevSoc/Workshops/tree/main/WorldOfInsecurity) - 10th February 2021
+* [A World of Insecurity ft John Walker](https://github.com/NTUDevSoc/Workshops/tree/main/World%20Of%20Insecurity) - 10th February 2021
+* [GitHub Basics Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/GitHub%20Basics%20Workshop) - 3rd March 2021
