@@ -9,3 +9,4 @@ Here's a list of our current academic year's events:
 * [Python in Industry Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Python%20in%20Industry) - 20th January 2021
 * [A World of Insecurity ft John Walker](https://github.com/NTUDevSoc/Workshops/tree/main/World%20Of%20Insecurity) - 10th February 2021
 * [GitHub Basics Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/GitHub%20Basics%20Workshop) - 3rd March 2021
+* [Using GitHub with GIT CLI Workshop]() - 10th March 2021
