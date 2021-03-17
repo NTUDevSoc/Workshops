@@ -10,3 +10,4 @@ Here's a list of our current academic year's events:
 * [A World of Insecurity ft John Walker](https://github.com/NTUDevSoc/Workshops/tree/main/World%20Of%20Insecurity) - 10th February 2021
 * [GitHub Basics Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/GitHub%20Basics%20Workshop) - 3rd March 2021
 * [Using GitHub with GIT CLI Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/GitHub%20Git%20CLI) - 10th March 2021
+* [C++ Support Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/C%2B%2B%20Workshop) - 17th March 2021
