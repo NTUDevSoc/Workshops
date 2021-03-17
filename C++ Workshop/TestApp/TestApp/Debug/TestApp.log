@@ -1,0 +1,3 @@
+﻿  TestApp.cpp
+D:\Uni work\DevSoc Workshop\TestApp\TestApp\TestApp.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+  TestApp.vcxproj -> D:\Uni work\DevSoc Workshop\TestApp\Debug\TestApp.exe
