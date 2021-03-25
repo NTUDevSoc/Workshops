@@ -11,3 +11,4 @@ Here's a list of our current academic year's events:
 * [GitHub Basics Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/GitHub%20Basics%20Workshop) - 3rd March 2021
 * [Using GitHub with GIT CLI Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/GitHub%20Git%20CLI) - 10th March 2021
 * [C++ Support Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/C%2B%2B%20Workshop) - 17th March 2021
+* [Discord for Beginners Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Discord%20For%20Beginners) - 24th March 2021
