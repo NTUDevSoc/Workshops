@@ -1,0 +1,7 @@
+### Circle area calculator
+Get radius from user
+
+Square radius
+Multiply result by pi
+
+Print resulting area
