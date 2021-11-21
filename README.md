@@ -4,9 +4,10 @@ Welcome to our collection of workshop resources! Over here, we store all powerpo
 ----------------------------------------------------------------------------
 
 ### Current Academic Year (2021 - 22) Events:
-* [Placements Q & A](https://github.com/NTUDevSoc/Workshops/tree/main/Placements%20101%20QA) - 29th September 2021
+* [Placements Q&A](https://github.com/NTUDevSoc/Workshops/tree/main/Placements%20101%20QA) - 29th September 2021
 * [IBM Z Xplore (IRL)](https://github.com/NTUDevSoc/Workshops/tree/main/IBM%20Z%20Xplore) - 24th October 2021
 * [Python Basics Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Python%20Basics) - 27th October 2021
+* [HTML/CSS Q&A]() - 17th November 2021
 
 ### Previous Academic Year (2020 - 21) Events:
 * [Python Basics 1.0 Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Archive/2020-21/Python%20Workshop%201) - 21st October 2020
