@@ -11,6 +11,7 @@ Welcome to our collection of workshop resources! Over here, we store all powerpo
 * [C++ Design & Good Practice Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/C%2B%2B%20Good%20Practices%20Workshop) - 1st December 2021
 * [GitHub Basics Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Github%20Basics%20Workshop) - 26th January 2022
 * [Let's Make: [VS Code Extensions] Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Lets%20Make%20VS%20Code%20Extension%20Workshop) - 9th March 2022
+* [C# Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/C#%20Basics%20Workshop) - 13th March 2022
 
 ### Previous Academic Year (2020 - 21) Events:
 * [Python Basics 1.0 Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Archive/2020-21/Python%20Workshop%201) - 21st October 2020
