@@ -6,4 +6,4 @@
 * [C++ Design & Good Practice Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Archive/2021-22/C%2B%2B%20Good%20Practices%20Workshop) - 1st December 2021
 * [GitHub Basics Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Archive/2021-22/Github%20Basics%20Workshop) - 26th January 2022
 * [Let's Make: [VS Code Extensions] Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Archive/2021-22/Lets%20Make%20VS%20Code%20Extension%20Workshop) - 9th March 2022
-* [C# Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Archive/2021-22/C#%20Basics%20Workshop) - 13th March 2022
+* [C# Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Archive/2021-22/C%23%20Basics%20Workshop) - 13th March 2022
