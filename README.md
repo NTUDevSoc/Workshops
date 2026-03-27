@@ -3,6 +3,5 @@ Welcome to our collection of workshop resources! Over here, we store all powerpo
 
 ----------------------------------------------------------------------------
 
-### Current Academic Year (2022 - 23) Events:
-* [Python Basics Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Python%20Basics) - 19th October 2022
-* [Placement Q & A]() - COMING SOON
+### Current Academic Year (2026) Events:
+* [Python Basics Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Algorithms) - Fri 27th March 2026
