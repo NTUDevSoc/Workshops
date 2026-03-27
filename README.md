@@ -4,4 +4,4 @@ Welcome to our collection of workshop resources! Over here, we store all powerpo
 ----------------------------------------------------------------------------
 
 ### Current Academic Year (2026) Events:
-* [Python Basics Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/Algorithms) - Fri 27th March 2026
+* [Data Structures and Algorithms Workshop](https://github.com/NTUDevSoc/Workshops/tree/main/DSA%20Workshop) - Fri 27th March 2026
